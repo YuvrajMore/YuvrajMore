@@ -1,6 +1,6 @@
 # Hi! I'm Yuvraj More.
 
-### I am an Electronics engineer with passion for technology and interest in the field of software and data.
+### I am a software engineer with passion for technology and interest in the field of software and data.
 - Currently working as fullstack developer.
 - Knowledge of Python, C# and SQL and earned 5 star gold badge on [Hackerrank](https://www.hackerrank.com/profile/yuvrajmore8805).
 - Basic Knowledge of Power BI, Microsoft Excel and Office Suite.
