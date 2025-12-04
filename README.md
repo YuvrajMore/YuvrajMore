@@ -19,7 +19,7 @@
 - Database - Postgresql, data is inserted using python script, connected to Power BI for visualization. (Checkout [database design](https://github.com/YuvrajMore/Finance-Data-Engineering-Project/blob/main/pics/2%20Schema.jpg))
 - Power BI - Visualizations and dashboards for real estate pricing analysis, sales analysis, HR analysis. (Project repositories are pinned on my profile, do check them out.)
 
-### Academic Learning (even older than presonal projects)
+### Academic Learning (even older than personal projects)
 - Java - Core java, OOP, Exception handling, Collections Framework, JDBC, Applets, RMI.
 - DBMS - SQL as well as fundamentals of database systems.
 - Cloud - Theoretical knowledge of cloud services.
