@@ -13,7 +13,7 @@
 - Fixed multiple high severity bugs which had effect across modules, worked on migration of legacy 3rd party google API.
 - I can learn new tech on the go, but I take my time understanding and testing things.
 
-### Personal Project Experience (this projects are quite old)
+### Personal Project Experience (these projects are quite old)
 - Python Libraries - Pandas, Dask, Numpy, Matplitlib, Seaborn, psycopg2 (Postgresql driver). Checkout my [data engineering project](https://github.com/YuvrajMore/Finance-Data-Engineering-Project).
 - ETL -  Python libraries for extracting data from CSV and JSON files, data cleaning, transformations and data integrity checks in python, load to database and file system for analysis in Power BI. (Checkout the [ETL flow](https://github.com/YuvrajMore/Finance-Data-Engineering-Project/blob/main/pics/1%20Flow.jpg))
 - Database - Postgresql, data is inserted using python script, connected to Power BI for visualization. (Checkout [database design](https://github.com/YuvrajMore/Finance-Data-Engineering-Project/blob/main/pics/2%20Schema.jpg))
